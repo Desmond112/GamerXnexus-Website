@@ -1,0 +1,2 @@
+# GamerXnexus-Website
+Site Architecture
